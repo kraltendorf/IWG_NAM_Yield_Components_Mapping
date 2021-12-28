@@ -1,0 +1,6 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+5	DP	5_DP	0	0	55.444	DP_Chr05_339720810	9.98	combined	NA	NA	NA	NA	yield_per_spike	tli	2017
+5	DP	5_DP	0	39.642	103.384	DP_Chr05_384585208	5.02	WGN38	51.2	0.5391675	NA	-0.1201125	yield_per_spike	tli	2017
+8	CP	8_CP	14.368	25.619	27.334		8.25	combined	NA	NA	NA	NA	yield_per_spike	tli	2017
+8	DP	8_DP	52.169	65.316	80.879		4.38	WGN63	18.6	0.588627	NA	-0.059586	yield_per_spike	tli	2017
+15	DP	15_DP	20.404	37.936	51.546	DP_Chr15_326337910	3.46	WGN15	11.7	0.5616555	NA	0.0434015	yield_per_spike	tli	2017

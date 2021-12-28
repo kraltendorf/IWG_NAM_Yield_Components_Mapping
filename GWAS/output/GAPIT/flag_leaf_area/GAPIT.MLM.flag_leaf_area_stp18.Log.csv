@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1161", "2")
+group.by ,20
+Trait name ,MLM.flag_leaf_area_stp18
+Kinship,1161:1162
+Z Matrix,c(1162, 1162)
+Covariate,c(1161, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1161
+group.to ,1161

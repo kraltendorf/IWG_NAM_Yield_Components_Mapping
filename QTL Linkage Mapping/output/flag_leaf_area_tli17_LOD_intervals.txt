@@ -1,0 +1,5 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+8	CP	8_CP	24.619	26.619	34.735		3.47	WGN07	19.8	49.3436	-4.2398	NA	flag_leaf_area	tli	2017
+10	DP	10_DP	114.286	148.214	148.214		3.74	WGN63	17.1	48.7538	NA	3.512	flag_leaf_area	tli	2017
+19	DP	19_DP	9	18.643	42.651	DP_Chr19_54210308	8.81	combined	NA	NA	NA	NA	flag_leaf_area	tli	2017
+19	DP	19_DP	8	18.643	40.101	DP_Chr19_54210308	3.55	WGN15	12.7	43.4241	NA	-2.6547	flag_leaf_area	tli	2017

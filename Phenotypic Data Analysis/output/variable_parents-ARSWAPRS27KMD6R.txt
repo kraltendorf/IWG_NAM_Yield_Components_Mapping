@@ -1,0 +1,13 @@
+est	p-value	est	p-value	est	p-value	est	p-value
+flag_leaf_area	-0.14	NS	0.34	NS	0.11	NS	0.25	NS
+floret_site_utilization	-0.08	NS	-0.33	NS	0	NS	0.45	NS
+florets_per_spikelet	-0.57	NS	0.45	NS	0.14	NS	0.74	0.02
+height	-0.02	NS	0.23	NS	0.28	NS	0.15	NS
+reproductive_tiller_ct	-0.3	NS	-0.33	NS	-0.4	NS	0.3	NS
+seed_area	0.41	NS	0.41	NS	0.13	NS	0.39	NS
+seeds_per_spike	-0.61	NS	-0.26	NS	0.09	NS	0.49	NS
+spikelet_density	-0.01	NS	0.65	0.04	0.15	NS	0.28	NS
+spikelets_per_spike	0.01	NS	-0.39	NS	0.59	NS	0.28	NS
+stem_diameter	-0.09	NS	0.17	NS	-0.07	NS	-0.75	0.01
+thousand_grain_weight	-0.02	NS	-0.01	NS	-0.33	NS	0.46	NS
+yield_per_spike	0	NS	-0.31	NS	-0.07	NS	0.33	NS

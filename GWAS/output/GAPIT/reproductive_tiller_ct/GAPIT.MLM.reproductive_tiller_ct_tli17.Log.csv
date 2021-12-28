@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1162", "2")
+group.by ,20
+Trait name ,MLM.reproductive_tiller_ct_tli17
+Kinship,1162:1163
+Z Matrix,c(1163, 1163)
+Covariate,c(1162, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1162
+group.to ,1162

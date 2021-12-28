@@ -1,0 +1,6 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+5	DP	5_DP	2	7.81	45.444	DP_Chr05_331923141	10.9	combined	NA	NA	NA	NA	floret_site_utilization	tli	2017
+5	DP	5_DP	4.11	7.81	58.292	DP_Chr05_331923141	5.12	WGN38	21.3	0.321438	NA	-0.040968	floret_site_utilization	tli	2017
+8	DP	8_DP	52.924	53.924	85.649	NA	3.9	WGN63	20.7	0.3435545	NA	-0.0346425	floret_site_utilization	tli	2017
+9	CP	9_CP	18.685	26.856	42.867	CP_Chr09_423005386	3.58	WGN38	12	0.325988	0.031532	NA	floret_site_utilization	tli	2017
+14	DP	14_DP	47.425	74.111	81.894	DP_Chr14_453518583	9.16	combined	NA	NA	NA	NA	floret_site_utilization	tli	2017

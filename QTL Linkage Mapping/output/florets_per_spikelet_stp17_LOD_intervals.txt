@@ -1,0 +1,7 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+2	DP	2_DP	45.149	59.941	68.327	DP_Chr02_272002759	9.65	combined	NA	NA	NA	NA	florets_per_spikelet	stp	2017
+2	DP	2_DP	45.149	58.53	66.283	DP_Chr02_301714194	5.22	WGN46	18.1	9.279	NA	0.35815	florets_per_spikelet	stp	2017
+5	DP	5_DP	0	0	8.81	DP_Chr05_339720810	9.81	combined	NA	NA	NA	NA	florets_per_spikelet	stp	2017
+8	CP	8_CP	24.619	26.619	31.569		9.98	combined	NA	NA	NA	NA	florets_per_spikelet	stp	2017
+9	CP	9_CP	2.401	6.177	12.979	CP_Chr09_95651880	13.53	combined	NA	NA	NA	NA	florets_per_spikelet	stp	2017
+9	CP	9_CP	0	3.401	23.377		5.03	WGN15	17.2	8.62798	-0.34603	NA	florets_per_spikelet	stp	2017

@@ -1,0 +1,3 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+2	DP	2_DP	41.338	49.382	53.213	DP_Chr02_266352444	10.09	combined	NA	NA	NA	NA	florets_per_spikelet	tli	2017
+10	DP	10_DP	92.034	106.868	121.36	DP_Chr10_83243158	4.18	WGN15	13.6	8.30975	NA	0.27019	florets_per_spikelet	tli	2017

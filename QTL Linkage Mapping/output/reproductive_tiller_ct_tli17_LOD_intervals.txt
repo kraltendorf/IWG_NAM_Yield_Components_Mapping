@@ -1,0 +1,6 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+1	DP	1_DP	67.688	89.363	100.89	DP_Chr01_266909888	3.69	WGN46	13.2	9.783775	NA	-0.489325	reproductive_tiller_ct	tli	2017
+5	DP	5_DP	0	6.11	42.535	NA	10.02	combined	NA	NA	NA	NA	reproductive_tiller_ct	tli	2017
+21	DP	21_DP	32.746	37.88	45.537	NA	9.59	combined	NA	NA	NA	NA	reproductive_tiller_ct	tli	2017
+21	DP	21_DP	31.746	41.42	67.757	NA	4	WGN07	13.8	8.945295	NA	0.605945	reproductive_tiller_ct	tli	2017
+21	DP	21_DP	0	1.977	32.746	DP_Chr21_20851406	3.91	WGN26	14.7	8.569845	NA	-0.585065	reproductive_tiller_ct	tli	2017

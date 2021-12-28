@@ -1,0 +1,203 @@
+name = WGN63_chr11
+popt = CP
+nloc = 83
+nind = 113
+
+Chr11_372292	<lmxll>	lm	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	--	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	lm	ll	--	ll	ll	ll	lm	lm	--	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	ll	ll	lm	--	ll	ll	ll	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	--	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	ll	lm	lm	lm	lm	lm	--	ll	--	ll	ll	lm	ll	ll	ll	ll	ll	ll	lm	ll	ll	--	lm	ll	--	--	lm	ll	ll	ll	lm	lm
+Chr11_372302	<lmxll>	lm	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	--	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	lm	ll	--	ll	ll	ll	lm	lm	--	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	ll	ll	lm	--	ll	ll	ll	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	ll	lm	lm	lm	lm	lm	--	ll	--	ll	ll	lm	ll	ll	ll	ll	ll	ll	lm	ll	ll	ll	lm	ll	--	--	lm	ll	ll	ll	lm	lm
+Chr11_1795475	<lmxll>	lm	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	lm	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	lm	lm	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	ll	ll	lm	lm	ll	ll	ll	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	ll	lm	lm	lm	lm	lm	--	ll	ll	ll	ll	lm	lm	lm	ll	ll	ll	ll	--	--	ll	lm	lm	ll	lm	ll	--	ll	ll	ll	lm	lm
+Chr11_2113560	<lmxll>	lm	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	lm	ll	lm	ll	ll	ll	--	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	ll	ll	lm	lm	ll	ll	ll	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	ll	lm	lm	--	lm	lm	ll	ll	ll	ll	--	lm	lm	lm	ll	ll	ll	ll	--	ll	ll	--	lm	ll	--	ll	--	ll	ll	ll	lm	lm
+Chr11_2113568	<lmxll>	lm	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	lm	ll	lm	ll	ll	ll	--	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	ll	ll	lm	lm	ll	ll	ll	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	ll	lm	lm	--	lm	lm	ll	ll	ll	ll	--	lm	lm	lm	ll	ll	ll	ll	--	ll	ll	--	lm	ll	--	ll	--	ll	ll	ll	lm	lm
+Chr11_2536944	<nnxnp>	np	np	nn	np	nn	np	np	np	np	nn	np	nn	np	nn	nn	np	np	np	nn	np	np	nn	np	nn	np	nn	np	np	np	np	nn	np	nn	nn	nn	nn	nn	np	np	nn	nn	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	np	np	nn	np	np	np	np	np	nn	nn	np	np	nn	np	nn	nn	nn	np	np	np	np	nn	nn	nn	nn	np	np	nn	nn	nn	np	nn	np	nn	np	nn	nn	np	np	np	np	nn	np	np	nn	np	nn	nn	np	nn	np	np	nn	np	np	np	nn	nn	np	np
+Chr11_6880046	<lmxll>	lm	lm	ll	ll	lm	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	lm	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	ll	ll	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	--	ll	ll	lm	ll	ll	ll	lm	lm	lm	ll	--	lm	lm	lm	ll	lm	ll	lm	lm	lm	lm	ll	ll	ll	lm	ll	ll	lm	ll	ll	lm	lm	lm	ll	lm	ll	--	--	ll	ll	lm	ll	lm	ll	ll	--	ll	ll	--	ll	lm	lm	ll	lm	ll	lm	ll	--	--	ll	lm
+Chr11_6880094	<lmxll>	ll	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	lm	ll	ll	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	ll	lm	ll	lm	--	ll	lm	lm	ll	ll	ll	lm	lm	lm	ll	--	lm	lm	lm	ll	lm	ll	lm	lm	lm	lm	ll	lm	ll	lm	ll	lm	lm	ll	ll	lm	lm	lm	lm	lm	ll	--	--	ll	ll	lm	ll	ll	ll	ll	--	ll	ll	--	ll	lm	ll	ll	lm	ll	ll	ll	--	--	ll	lm
+Chr11_10488676	<hkxhk>	hh	hh	kk	hk	kk	hh	hk	hh	hk	hk	hh	--	hk	kk	hh	hk	hh	hh	hh	hk	hh	kk	hk	hk	hk	hk	hk	hh	--	hk	kk	kk	hk	hk	kk	hk	hk	--	hh	hk	hk	kk	hk	hk	hk	hh	hk	hh	--	hh	kk	hk	hk	hh	--	kk	hh	hh	hh	hh	hh	kk	kk	hh	hh	kk	hh	hk	--	--	--	hh	hh	hh	kk	kk	--	kk	hh	hh	hk	kk	hk	hh	hk	hh	kk	hk	--	--	hk	hh	hh	hk	kk	hh	--	hk	hk	--	--	hk	--	hh	--	hh	hk	hh	--	kk	hk	--	hh
+Chr11_11700212	<nnxnp>	nn	nn	np	np	np	np	np	nn	np	nn	nn	np	nn	nn	nn	nn	nn	np	np	nn	np	np	nn	--	nn	np	np	nn	nn	np	np	np	np	nn	nn	np	nn	np	nn	np	np	nn	nn	np	np	nn	nn	nn	np	nn	nn	nn	np	nn	nn	np	nn	np	nn	nn	np	nn	np	nn	nn	nn	nn	nn	np	nn	nn	nn	np	np	np	np	nn	nn	nn	nn	nn	nn	nn	np	nn	nn	nn	np	np	--	np	np	np	np	np	--	nn	np	nn	nn	nn	np	nn	nn	np	nn	nn	np	nn	np	np	np	nn
+Chr11_13107376	<nnxnp>	np	np	np	np	nn	np	np	nn	np	np	np	np	np	np	np	nn	--	np	np	np	np	np	np	np	np	np	np	nn	np	np	np	np	np	nn	np	np	--	np	--	np	--	np	np	np	np	np	nn	np	nn	nn	--	np	np	nn	--	np	nn	np	nn	np	nn	np	np	nn	np	np	np	np	np	nn	np	--	nn	np	np	np	nn	np	nn	np	np	np	np	--	--	--	np	nn	np	--	np	np	np	nn	np	np	np	np	np	--	np	np	--	--	np	--	np	np	--	np	--	np	np
+Chr11_13464398	<hkxhk>	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	--	--	hk	--	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk
+Chr11_16179464	<lmxll>	ll	ll	lm	ll	ll	ll	ll	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	--	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	ll	ll	lm	ll	ll	ll	ll	lm	lm	ll	--	lm	ll	ll	ll	ll	ll	lm	lm	ll	lm	lm	ll	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	ll	ll	ll	lm	lm	lm	ll	ll	--	ll	--	lm	--	lm	lm	ll	lm	lm	ll	lm	lm	lm	ll	ll	lm	--	--	lm	--	--	--	lm	ll	lm	--	ll
+Chr11_17021436	<lmxll>	ll	ll	lm	ll	ll	ll	ll	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	ll	ll	lm	ll	ll	ll	ll	lm	lm	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	lm	lm	ll	lm	ll	ll	ll	ll	ll	ll	ll	lm	ll	ll	ll	ll	lm	lm	lm	ll	ll	--	ll	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	--	lm	--	--	lm	--	ll	lm	ll	lm	ll	--	lm	lm	ll	ll
+Chr11_17915903	<hkxhk>	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hh	hh	hk	hk	hh	hk	hh	hh	hk	hh	hk	hh	hh	hh	hk	hh	hk	hk	hk	hk	hh	hk	hh	--	hk	hk
+Chr11_18278410	<lmxll>	lm	lm	ll	lm	lm	lm	lm	lm	ll	ll	lm	ll	lm	ll	lm	ll	lm	lm	lm	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	ll	ll	lm	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	lm	lm	lm	lm	ll	ll	lm	--	ll	lm	--	lm	ll	lm	ll	lm	lm	ll	ll	ll	ll	lm	lm	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	ll	ll	ll	lm	--	lm	lm	ll	ll	lm	ll	ll	ll	ll	ll	ll	lm	ll	ll	--	--	ll	--	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm
+Chr11_20751216	<lmxll>	lm	lm	ll	lm	lm	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	lm	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	ll	ll	lm	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	lm	lm	lm	lm	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	lm	lm	ll	ll	lm	ll	lm	lm	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	ll	ll	ll	lm	lm	lm	lm	ll	ll	lm	ll	ll	lm	ll	ll	ll	ll	ll	ll	lm	lm	ll	lm	--	ll	lm	ll	lm	ll	ll	ll	lm	lm
+Chr11_23623556	<nnxnp>	nn	np	np	np	np	nn	np	np	np	np	nn	np	np	np	nn	np	nn	np	np	nn	np	np	nn	np	np	np	np	nn	nn	nn	nn	np	nn	np	nn	np	nn	nn	np	nn	nn	np	np	np	np	nn	np	np	np	nn	nn	np	np	np	--	np	np	nn	np	np	nn	np	np	np	nn	nn	np	np	nn	nn	nn	nn	np	nn	np	np	np	np	np	nn	np	np	np	nn	nn	np	np	np	--	np	np	nn	nn	nn	nn	--	nn	--	np	--	--	nn	--	--	nn	np	np	--	np	np	np	np	np
+Chr11_29900839	<hkxhk>	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk
+Chr11_30406190	<nnxnp>	nn	nn	np	np	np	nn	nn	nn	nn	nn	--	np	np	np	np	np	nn	nn	nn	nn	nn	np	nn	nn	nn	np	nn	np	nn	np	np	np	np	np	np	np	np	np	nn	np	nn	np	np	np	np	nn	np	nn	np	nn	np	nn	nn	nn	--	np	--	nn	nn	nn	nn	np	np	np	nn	np	nn	--	np	np	nn	nn	nn	np	np	np	np	np	nn	nn	np	np	np	nn	--	--	np	nn	np	--	nn	--	nn	--	np	--	--	--	--	--	--	nn	--	--	nn	nn	--	--	nn	np	np	--	--
+Chr11_32523201	<nnxnp>	np	nn	np	nn	np	nn	np	np	np	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	np	np	np	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	nn	nn	nn	np	nn	np	np	np	np	nn	np	np	np	np	nn	nn	nn	nn	np	np	--	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	nn	np	nn	nn	nn	np	nn	np	nn	--	nn	nn	np	nn	nn	nn	nn	np	np	--	nn	--	--	np	nn	--	np	np	nn	np	nn	nn	np	np	np
+Chr11_34005268	<nnxnp>	np	nn	nn	nn	np	np	np	np	np	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	np	nn	np	nn	np	nn	nn	nn	nn	nn	--	nn	nn	nn	--	nn	np	nn	nn	nn	nn	np	nn	np	nn	np	nn	np	np	np	--	nn	np	np	np	np	np	nn	nn	nn	np	nn	np	nn	nn	nn	np	np	np	nn	nn	nn	nn	nn	np	np	nn	nn	nn	np	nn	--	nn	np	--	nn	np	nn	np	nn	nn	np	np	nn	np	--	--	np	--	--	np	np	--	np	np	nn	nn	nn	--
+Chr11_35011878	<hkxhk>	hk	kk	hk	kk	hk	hk	hk	hk	hh	hh	kk	hk	kk	hk	kk	hk	hk	hk	hk	hh	hk	kk	hk	hh	hh	hk	hh	kk	hk	hk	hk	hk	kk	hk	hk	hk	kk	kk	hk	hk	hh	hk	kk	hk	kk	hh	hk	hk	kk	hk	kk	hh	hh	hk	hh	hk	hk	hk	hk	hh	hk	hk	kk	kk	hh	hk	hk	hk	kk	kk	hk	hk	hk	kk	kk	hk	kk	kk	hk	hk	hk	hk	hk	hk	kk	hk	kk	hh	hk	kk	hh	hk	hh	hk	hk	hh	hk	--	hh	hk	kk	hh	--	hk	hh	hk	kk	hk	hh	hk	hk	kk	hk
+Chr11_35125295	<nnxnp>	nn	nn	np	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	np	nn	nn	nn	nn	nn	np	np	nn	nn	np	nn	np	nn	np	np	np	np	np	np	np	np	np	nn	np	nn	np	np	np	np	nn	np	nn	np	nn	np	nn	nn	nn	nn	np	nn	nn	nn	nn	nn	np	np	np	nn	np	nn	np	np	np	nn	nn	nn	np	np	np	np	np	nn	nn	np	np	np	nn	np	nn	np	nn	np	np	nn	np	nn	np	np	nn	nn	np	nn	--	np	nn	--	nn	nn	nn	np	nn	nn	np	np	np	nn
+Chr11_35529984	<nnxnp>	nn	nn	nn	nn	np	nn	nn	nn	np	nn	np	nn	--	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	nn	nn	np	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	np	nn	np	nn	np	nn	nn	nn	nn	nn	nn	nn	np	nn	nn	nn	np	nn	nn	nn	nn	nn	np	np	nn	--	np	nn	np	np	np	nn	nn	nn	nn	nn	np	nn	nn	nn	--	nn	--	--	np	np	nn	np	nn	np	--	np	np	np	nn	--	nn	np	--	nn	nn	nn	nn	nn	nn	nn	np	nn
+Chr11_36821818	<nnxnp>	np	nn	np	nn	np	nn	np	np	np	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	np	np	np	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	nn	np	nn	np	nn	np	np	np	np	nn	np	np	np	np	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	np	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	nn	np	nn	nn	np	np	nn	nn	--	--	np	nn	np	np	np	nn	np	np	nn	np	nn	np
+Chr11_39753153	<lmxll>	ll	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	ll	lm	ll	lm	--	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	ll	lm	ll	ll	lm	ll	lm	lm	ll	ll	ll	ll	lm	ll	ll	--	ll	ll	ll	ll	ll	ll	lm	ll	ll	lm	lm	ll	lm	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	ll	lm	lm	ll	ll	--	--	ll	--	--	--	ll	lm	lm	--	ll	--	--	--	lm	--	--	lm	ll	--	--	ll	ll	--	--	--	lm	ll	ll
+Chr11_41084309	<lmxll>	ll	ll	lm	ll	ll	ll	ll	ll	lm	lm	ll	lm	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	ll	ll	ll	ll	lm	lm	ll	--	lm	ll	ll	ll	lm	ll	lm	ll	ll	lm	lm	ll	lm	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	ll	lm	lm	--	lm	--	ll	lm	lm	--	--	lm	ll	ll	lm	ll	ll	--	lm	lm	lm	ll	ll
+Chr11_41084311	<nnxnp>	np	nn	nn	nn	np	nn	np	np	np	np	nn	nn	nn	nn	nn	nn	nn	np	np	np	np	nn	nn	nn	np	nn	np	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	nn	np	nn	np	nn	np	np	np	--	nn	np	np	np	np	np	nn	nn	nn	np	np	np	nn	nn	nn	np	np	np	nn	nn	nn	nn	nn	np	np	nn	nn	nn	np	nn	np	nn	np	nn	nn	np	nn	np	--	nn	--	np	nn	nn	--	--	np	nn	nn	np	np	nn	--	np	nn	nn	nn	np
+Chr11_43013595	<hkxhk>	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hh	hk	hk	hk	hk	hh	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	--	hk	hh	hk	hh	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hk	hh	hk	hk	hh	hk	hk	hk	hk	hh	hh	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hh	--	hk	hh	hh	hk	hk	hk	hk	--	--	hh	hh	hk	hk	--	--	hk	--	hk	hk	--	hk	--	hk	hk	hh	hh	hk
+Chr11_43288703	<nnxnp>	np	nn	nn	nn	np	nn	np	np	np	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	np	np	np	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	nn	np	nn	nn	nn	nn	np	nn	np	nn	np	nn	np	np	np	np	nn	np	np	np	np	np	nn	nn	nn	np	np	np	nn	nn	nn	np	np	np	nn	nn	nn	nn	nn	np	np	nn	nn	nn	np	nn	np	nn	np	nn	nn	np	nn	np	--	nn	np	np	nn	nn	np	nn	np	nn	np	np	np	nn	np	np	nn	nn	nn	np
+Chr11_46015321	<lmxll>	ll	ll	lm	ll	ll	ll	ll	ll	lm	lm	ll	lm	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	lm	ll	lm	lm	lm	ll	lm	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	ll	ll	lm	ll	lm	lm	ll	ll	ll	ll	lm	lm	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	lm	lm	ll	lm	ll	lm	ll	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	ll	ll	ll	ll	lm	lm	lm	lm	ll	ll	ll	lm	ll	--	lm	--	lm	lm	ll	ll	lm	lm	ll	lm	ll	ll
+Chr11_46015352	<hkxhk>	kk	hk	hk	hk	kk	hk	kk	kk	hk	hk	hk	hh	hk	hh	hk	hh	kk	kk	kk	hk	kk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hh	hh	hk	hh	hh	hh	hk	hk	kk	hh	hk	hh	hk	hh	hk	hk	hh	kk	hk	kk	hk	hk	hk	kk	hk	hh	kk	kk	kk	hk	hk	hh	hk	hk	hk	hk	kk	hh	hk	hh	hk	kk	hk	hk	hh	hk	hh	hk	hk	kk	hh	hh	hh	kk	hk	kk	hh	kk	hk	hk	kk	hh	hk	hh	hh	kk	kk	hh	hh	kk	--	hk	--	hh	hh	kk	hk	hk	hk	hk	hk	hk	kk
+Chr11_48711095	<lmxll>	lm	ll	ll	lm	--	ll	ll	lm	lm	lm	ll	--	lm	ll	lm	lm	lm	lm	ll	lm	lm	ll	ll	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	lm	ll	lm	lm	ll	lm	ll	lm	ll	lm	lm	lm	ll	ll	lm	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	ll	lm	ll	lm	ll	lm	ll	ll	lm	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	--	--	lm	ll	ll	--	lm	ll	--	--	--	lm	lm	--	lm	--	--	--	lm	--	--	ll	lm	--	lm	ll
+Chr11_65102436	<nnxnp>	nn	np	nn	np	nn	np	nn	nn	nn	nn	np	np	np	np	np	np	nn	nn	nn	nn	nn	np	np	np	nn	nn	nn	np	nn	np	np	np	np	np	np	np	np	np	nn	np	nn	np	np	np	np	nn	np	nn	np	nn	--	nn	nn	nn	nn	np	nn	nn	nn	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	np	np	np	np	np	nn	np	np	np	nn	--	--	np	nn	np	--	nn	np	np	np	np	nn	--	--	np	--	--	nn	--	nn	nn	--	np	nn	nn	np	nn	nn	nn
+Chr11_74686748	<lmxll>	lm	lm	ll	lm	lm	lm	lm	lm	--	ll	lm	ll	lm	ll	lm	ll	lm	lm	lm	ll	lm	lm	ll	lm	--	ll	--	lm	ll	ll	ll	ll	lm	ll	ll	ll	lm	lm	lm	--	ll	ll	lm	ll	lm	ll	ll	lm	lm	lm	lm	ll	ll	lm	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	ll	ll	lm	ll	lm	ll	lm	lm	lm	lm	ll	lm	ll	lm	lm	lm	--	ll	ll	lm	lm	lm	ll	lm	--	lm	lm	ll	ll	ll	ll	lm	lm	ll	lm	--	--	ll	--	--	ll	lm	lm	ll	ll	lm	--	lm	lm
+Chr11_78306217	<lmxll>	lm	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	ll	lm	ll	lm	ll	--	lm	lm	ll	lm	lm	ll	lm	ll	ll	ll	lm	ll	ll	ll	ll	lm	ll	ll	ll	lm	lm	--	ll	ll	ll	lm	ll	lm	ll	ll	lm	lm	lm	--	ll	ll	lm	--	ll	lm	lm	--	ll	lm	ll	lm	lm	ll	ll	lm	--	lm	ll	ll	lm	ll	lm	ll	lm	ll	lm	lm	lm	ll	ll	ll	lm	ll	--	--	--	lm	--	lm	--	ll	--	--	lm	lm	--	lm	--	lm	ll	--	--	--	ll	lm	--	ll	lm	ll	lm	lm
+Chr11_102533278	<lmxll>	ll	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	lm	ll	lm	--	lm	ll	lm	--	lm	lm	ll	lm	ll	lm	lm	lm	ll	lm	--	--	lm	--	--	--	--	--	--	lm	lm	lm	lm	lm
+Chr11_102533308	<hkxhk>	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	--	hk	hh	hk	--	hk	hk	hk	hk	--	hk	hk	hk	hk	hk	--	--	hk	--	--	--	--	--	--	hk	hk	hk	hh	hk
+Chr11_115993916	<nnxnp>	nn	np	np	np	nn	np	nn	nn	nn	nn	np	np	np	np	--	np	nn	nn	nn	nn	nn	np	np	np	nn	nn	nn	np	nn	np	np	np	np	np	np	np	np	np	--	np	nn	np	np	np	np	nn	np	nn	np	nn	--	nn	nn	nn	nn	np	nn	nn	nn	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	np	np	np	np	np	nn	np	np	np	nn	--	--	np	--	--	np	nn	--	nn	np	--	nn	--	np	np	--	--	nn	--	--	--	nn	np	--	nn	--	nn	np	--
+Chr11_124152539	<lmxll>	lm	lm	lm	lm	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	lm	ll	ll	ll	ll	ll	ll	lm	ll	ll	lm	lm	ll	lm	lm	ll	ll	ll	ll	ll	ll	lm	lm	lm	lm	ll	ll	ll	lm	lm	lm	lm	ll	ll	lm	lm	ll	ll	ll	lm	ll	ll	ll	ll	ll	ll	ll	lm	lm	lm	lm	lm	lm	ll	lm	ll	lm	lm	lm	lm	ll	ll	lm	ll	lm	lm	ll	ll	lm	ll	--	ll	ll	--	ll	lm	lm	ll	ll	ll	ll	ll	ll	lm	ll	ll	lm	ll	lm	lm	ll	--	lm	lm	--	ll	lm	lm	ll
+Chr11_143612734	<hkxhk>	kk	hk	hk	hk	--	hk	kk	kk	hk	hk	hk	hh	hk	hh	hk	hh	--	kk	kk	hk	kk	hk	hh	hk	hk	hh	hk	hk	hk	hh	hh	hh	hk	hh	hh	hh	hk	hk	--	hh	hk	hh	hk	hh	hk	hk	hh	kk	hk	kk	hh	hk	hk	kk	hk	hh	kk	kk	kk	hk	hk	hh	hk	hk	kk	hh	kk	hh	hk	hh	hk	kk	hk	kk	hh	hk	hh	hk	hk	kk	hh	hh	hh	kk	hh	kk	hh	--	hk	hh	kk	hh	hh	hh	hh	kk	kk	hh	hk	--	--	hk	--	hh	hk	--	hk	--	hk	hk	hh	kk	kk
+Chr11_149000352	<lmxll>	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	ll	ll	lm	ll	lm	--	ll	ll	lm	ll	ll	lm	ll	lm	lm	lm	ll	--	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	ll	ll	ll	ll	lm	lm	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	--	lm	ll	ll	ll	lm	--	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	ll	lm	lm	ll	--	ll	ll	ll	ll	ll	--	lm	lm	ll	--	ll	lm	ll	--	--	lm	--	lm	--	ll	ll	--	lm	ll	lm	--	ll
+Chr11_161350995	<lmxll>	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	lm	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	lm	ll	lm	lm	lm	ll	lm	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	ll	ll	ll	ll	lm	lm	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll	lm	lm	ll	lm	ll	lm	ll	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	ll	ll	ll	ll	lm	lm	lm	lm	ll	ll	lm	ll	ll	ll	lm	ll	lm	lm	ll	ll	ll	lm	ll	lm	ll	ll
+Chr11_164365817	<hkxhk>	kk	hh	hk	hk	kk	hk	kk	kk	hk	hk	hk	hh	hk	hh	hk	hh	kk	kk	--	hk	kk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hh	hh	hk	hh	hh	hh	hk	hh	--	hh	hk	--	hk	hh	hk	hk	hh	kk	hk	kk	hk	hk	hk	kk	--	hh	--	kk	kk	hk	hk	hh	hk	hk	kk	hk	kk	hh	hk	hh	hk	kk	hk	kk	hh	hk	hh	hk	hk	kk	hh	hh	hh	kk	hk	kk	hh	--	hh	hk	kk	hh	hh	--	hh	kk	kk	hh	hk	--	--	hk	--	hk	hk	kk	hk	--	hk	hk	hk	kk	--
+Chr11_177624370	<hkxhk>	hk	hh	kk	hh	hk	hh	hk	hk	kk	kk	hh	hk	hh	hk	hh	hk	hk	hk	hk	kk	hk	hh	hk	hh	kk	kk	kk	hh	kk	hh	hk	hk	hh	hk	hk	hk	hh	hh	hk	hk	kk	hk	hh	hk	hh	kk	hk	hk	hh	hk	hh	kk	kk	hk	kk	hk	hk	hh	--	kk	hh	hk	hh	hh	kk	kk	hk	hk	hh	hk	hh	hk	hh	hk	hk	hh	hk	hh	hh	hk	hk	hk	hk	hk	--	hk	hk	--	hh	hh	hk	hk	kk	--	hk	hk	hk	hh	hh	--	hh	kk	--	kk	--	--	hh	kk	kk	hh	kk	hh	hk
+Chr11_182806299	<lmxll>	--	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	lm	ll	lm	ll	lm	ll	--	ll	ll	ll	ll	lm	ll	lm	lm	lm	ll	lm	lm	lm	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	ll	lm	lm	lm	ll	ll	ll	lm	lm	ll	lm	lm	ll	ll	--	lm	ll	lm	ll	ll	ll	lm	ll	ll	ll	lm	ll	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	ll	lm	lm	--	--	lm	ll	ll	ll	ll	lm	--	lm	lm	--	ll	lm	ll	--	ll	lm	ll	lm	lm	ll	ll	--	lm	ll	ll	lm	ll
+Chr11_183529747	<hkxhk>	hk	hk	hh	kk	hk	kk	hk	hk	hh	hh	kk	hk	kk	hk	kk	hk	hk	hk	hk	hk	hk	kk	hk	kk	hh	hh	hh	kk	hh	hk	hk	hk	kk	hk	hk	hk	kk	kk	--	hk	hh	hk	kk	hk	kk	hh	hk	hk	kk	hk	kk	hh	hh	hk	hh	hk	hk	hk	hk	hh	kk	hk	kk	kk	hk	hh	hk	kk	kk	hk	kk	hk	kk	hk	hk	kk	hk	kk	kk	hk	hk	kk	hk	hh	--	hk	hk	hk	kk	kk	hk	kk	hk	hk	hk	hk	hk	--	kk	hk	--	hh	--	hh	hh	--	kk	hh	hh	kk	hh	hh	hk
+Chr11_184857843	<hkxhk>	hk	hk	hh	hk	hk	kk	hk	hk	hh	hh	kk	hk	kk	hh	kk	hk	hk	hk	hk	hk	hk	kk	hk	kk	hh	hh	hh	kk	hh	hk	hk	hk	kk	hk	hk	hk	kk	kk	hk	hk	hh	hk	kk	kk	kk	hh	hk	hk	kk	hk	kk	hh	hh	hk	hh	hk	hk	hk	hh	hh	kk	kk	kk	kk	hk	hh	hk	kk	kk	hk	kk	hk	kk	hk	hk	kk	hk	hk	hk	hk	hk	kk	kk	hh	kk	hk	hk	hk	kk	kk	hk	hk	hk	hk	hk	hk	hk	kk	kk	hk	kk	hh	kk	--	hh	hk	--	hh	hh	kk	hh	hh	hk
+Chr11_185119201	<hkxhk>	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	--	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk
+Chr11_193996535	<lmxll>	ll	ll	ll	lm	lm	lm	lm	ll	lm	ll	lm	ll	ll	lm	ll	lm	ll	ll	ll	ll	lm	lm	lm	lm	lm	ll	ll	ll	ll	lm	lm	lm	lm	lm	lm	ll	ll	ll	ll	ll	lm	lm	ll	ll	lm	ll	ll	ll	lm	ll	lm	lm	lm	ll	lm	lm	ll	ll	lm	ll	lm	lm	lm	lm	lm	lm	ll	ll	ll	ll	ll	ll	ll	lm	lm	lm	lm	ll	lm	lm	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	lm	ll	lm	lm	lm	ll	lm	lm	lm	ll	ll	lm	ll	lm	ll	ll	lm	ll	ll	ll
+Chr11_193996552	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	nn	np	np	nn	np	np	np	nn	nn	nn	nn	nn	np	np	np	nn	nn	np	np	nn	np	np	np	np	np	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	np	np	nn	nn	nn	nn	nn	nn	np	nn	nn	np	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	np	np	np	nn	np	np	np	nn	np	np	nn	--	np	np	np	nn	nn	nn	np	nn	nn	nn	np	nn	nn	nn	np	nn	nn	np	nn	nn	nn
+Chr11_195723498	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	np	nn	nn	--	nn	nn	np	np	np	nn	nn	np	np	nn	np	np	np	np	np	np	np	np	np	--	nn	nn	np	np	np	np	nn	np	np	np	nn	nn	nn	nn	nn	nn	np	nn	nn	np	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	np	np	np	np	np	nn	np	np	np	nn	np	np	np	nn	np	np	nn	np	nn	np	np	--	nn	nn	np	nn	--	nn	nn	nn	nn	nn	np	nn	nn	np	nn	nn	nn
+Chr11_197116915	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	nn	np	np	np	np	nn	np	nn	nn	nn	nn	nn	np	np	np	nn	nn	np	np	nn	np	np	np	np	np	np	np	np	np	--	nn	nn	np	np	np	np	nn	np	np	np	nn	nn	nn	nn	nn	nn	np	nn	nn	np	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	np	np	np	nn	np	--	np	nn	np	np	nn	np	np	--	np	nn	nn	--	np	--	--	nn	--	nn	nn	nn	np	--	nn	np	nn	--	nn
+Chr11_204252128	<hkxhk>	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	--	hk	hk	--	--	hk	hk	hk	--	hk	hk	hh	hk	hk	hk	hh	hk
+Chr11_207750698	<nnxnp>	np	nn	np	nn	np	np	np	np	np	np	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	np	np	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	np	np	np	np	np	np	nn	np	nn	np	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	nn	--	nn	nn	nn	nn	np	nn	nn	np	nn	np	np	nn	nn	--	--	np	nn	--	np	np	--	np	np	nn	np	np	np
+Chr11_207933245	<hkxhk>	hh	hk	hk	hh	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hh	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hh	hk	hh	hk	hk	hh	hk	hk	hk	hh	hk	hk	hk	hk	hk	hh	hh	hh	hh	hk	hh	hk	hk	hk	hh	hk	hk	hk	hk	hk	hk	hh	hk	hk	hh	hh	hh	hk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hh	hk	hk	hk	hh	hk	hh	hk	hk	hk	hh	hk	hh	hk	hh	hk	hk	hk	hk	hk	hk	hh	--	hk	hh	hk	hk	--	--	hk	--	hk	hk	hk	--	hk
+Chr11_208650186	<nnxnp>	np	nn	np	nn	np	np	np	np	np	np	np	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	np	np	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	np	np	np	nn	np	np	nn	np	--	np	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	nn	nn	nn	nn	nn	--	np	nn	nn	np	nn	np	np	--	nn	--	np	np	nn	np	np	np	nn	np	np	nn	np	np	np
+Chr11_210989308	<nnxnp>	nn	nn	nn	nn	nn	nn	np	nn	nn	nn	nn	nn	np	nn	np	np	nn	np	nn	nn	nn	np	nn	np	nn	nn	nn	np	nn	nn	np	nn	nn	np	nn	np	np	nn	np	np	np	np	nn	np	np	nn	nn	np	np	np	np	nn	nn	nn	nn	nn	np	nn	np	nn	np	np	nn	np	nn	nn	nn	np	np	nn	nn	np	np	nn	nn	nn	np	nn	np	np	nn	nn	np	np	--	--	np	nn	--	--	np	--	np	nn	nn	np	np	np	nn	np	nn	nn	np	nn	nn	--	nn	np	np	nn	nn	nn	nn
+Chr11_210989314	<nnxnp>	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	nn	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	np	--	--	np	np	--	--	np	--	np	nn	nn	np	np	np	np	np	np	np	np	np	np	nn	np	np	nn	np	np	np	np
+Chr11_211672806	<lmxll>	lm	ll	ll	ll	lm	lm	lm	lm	ll	ll	lm	ll	lm	ll	lm	ll	lm	lm	lm	lm	lm	lm	lm	lm	ll	ll	ll	lm	ll	ll	ll	ll	ll	ll	ll	ll	lm	lm	--	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	ll	lm	ll	ll	lm	lm	lm	ll	lm	lm	lm	lm	lm	ll	lm	lm	lm	ll	lm	lm	lm	lm	ll	lm	ll	ll	ll	lm	ll	lm	lm	ll	lm	--	lm	lm	--	lm	lm	ll	ll	ll	ll	lm	lm	--	lm	--	--	ll	--	ll	ll	lm	lm	lm	ll	lm	ll	ll	lm
+Chr11_212660805	<lmxll>	ll	lm	lm	ll	ll	ll	ll	ll	lm	lm	--	lm	ll	lm	ll	lm	ll	ll	--	ll	ll	ll	--	ll	ll	lm	lm	ll	lm	lm	lm	ll	ll	lm	lm	lm	ll	ll	--	lm	lm	ll	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm	ll	lm	lm	ll	ll	--	lm	ll	ll	ll	ll	ll	ll	--	ll	ll	lm	ll	ll	ll	ll	lm	ll	lm	lm	lm	ll	lm	ll	ll	lm	--	lm	ll	--	ll	ll	ll	--	--	--	ll	ll	--	--	ll	--	ll	ll	--	ll	--	--	--	ll	--	ll	--	lm	--
+Chr11_215678698	<nnxnp>	np	nn	np	nn	np	np	np	np	np	np	np	nn	nn	nn	--	nn	np	np	np	np	np	nn	nn	nn	np	np	nn	nn	np	nn	nn	np	nn	nn	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	np	np	np	nn	np	np	nn	np	nn	np	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	--	--	nn	--	nn	--	np	--	nn	np	nn	np	np	--	nn	--	--	np	--	--	np	--	nn	np	np	--	--	np	np
+Chr11_216859656	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	nn	nn	np	np	np	np	nn	np	np	nn	np	np	np	np	np	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	np	np	nn	nn	nn	nn	np	nn	nn	np	nn	np	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	np	np	np	nn	np	np	np	np	np	np	np	np	np	nn	np	nn	nn	np	np	nn	nn	nn	nn	--	nn	nn	np	--	nn	np	nn	nn	nn
+Chr11_216859705	<nnxnp>	np	nn	np	nn	np	np	np	np	np	np	np	nn	nn	nn	nn	nn	np	np	np	np	np	nn	nn	nn	nn	np	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	np	np	np	nn	np	np	nn	np	nn	np	nn	nn	nn	nn	np	np	np	nn	nn	nn	nn	np	nn	np	np	nn	nn	nn	nn	np	nn	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	np	nn	np	np	nn	nn	np	np	np	nn	--	np	np	nn	--	np	nn	np	np	np
+Chr11_220432635	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	nn	nn	np	np	np	np	np	nn	--	nn	nn	nn	np	np	np	np	nn	np	np	nn	np	np	np	np	np	np	np	np	np	nn	nn	nn	np	nn	np	np	nn	np	np	np	nn	nn	nn	nn	np	--	nn	np	nn	np	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	np	np	np	nn	--	--	np	np	np	--	np	np	np	--	np	nn	nn	--	np	nn	--	nn	nn	nn	nn	nn	np	--	--	np	--	nn	nn
+Chr11_223223131	<lmxll>	lm	ll	ll	ll	lm	ll	ll	lm	ll	ll	lm	ll	lm	ll	lm	ll	lm	lm	lm	lm	lm	lm	lm	lm	ll	ll	ll	lm	ll	ll	ll	ll	lm	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	ll	ll	lm	lm	lm	ll	lm	lm	ll	ll	lm	lm	lm	ll	lm	lm	ll	lm	lm	lm	lm	lm	lm	ll	lm	lm	lm	lm	lm	lm	ll	ll	ll	lm	ll	lm	lm	ll	lm	ll	ll	lm	lm	lm	lm	ll	lm	lm	ll	lm	lm	ll	lm	lm	lm	ll	ll	ll	--	lm	lm	lm	ll	lm	ll	ll	lm
+Chr11_225128996	<hkxhk>	--	hk	kk	hk	hk	kk	kk	hk	kk	kk	hk	hk	hh	hk	--	hk	hk	hk	hk	hk	hk	hh	hh	hh	hk	kk	hk	hh	kk	hk	hk	hh	hh	hk	hk	hk	hh	hh	hk	kk	kk	hk	hh	hh	hh	kk	kk	hk	hh	hk	hk	kk	hk	hh	--	kk	hh	hk	--	hk	hh	hh	hk	hh	hk	hk	kk	hh	hh	hk	hh	hk	hh	hk	hk	hh	hk	hk	hk	hk	hk	hh	hh	kk	hh	hk	hk	hh	--	hk	hh	hh	hh	hk	hk	hk	hk	hk	hh	--	--	kk	--	--	hk	--	hh	--	--	hh	kk	hk	hk
+Chr11_227460942	<hkxhk>	kk	hh	hk	hh	kk	hk	hk	kk	hk	hk	kk	hh	hk	hh	hk	hh	kk	kk	kk	kk	kk	hk	hk	hk	hh	hk	hh	hk	hk	hh	hh	hk	hk	hh	hh	hh	hk	hk	kk	hk	hk	hh	hh	hh	hk	hk	hk	hh	hk	kk	kk	hk	kk	hk	--	hk	hk	kk	hk	kk	hk	hk	hh	hk	kk	kk	hk	hk	hk	hk	hk	kk	hk	kk	kk	hk	hh	hh	hh	hk	hk	hk	hk	hk	hk	hh	hh	hk	hh	kk	hh	hh	hk	kk	hh	--	kk	hh	hk	--	kk	hk	hh	hk	kk	kk	hh	kk	hk	hk	hk	--	kk
+Chr11_228740879	<hkxhk>	hk	hh	hk	hh	hk	hk	hk	hk	hk	hh	hk	hh	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hh	hk	hh	hk	kk	--	hh	hk	hk	hh	hh	hh	hk	hh	hk	hk	hk	hh	hh	hh	hk	hk	hk	hh	hk	kk	hk	kk	hk	hk	--	hk	hk	kk	hh	hk	hk	hk	--	hk	hk	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hh	hh	hk	hk	hk	hk	hk	hh	hh	hh	hh	hh	hh	--	hh	--	hk	hk	hh	hk	hh	--	hk	hk	--	hk	hh	--	kk	hk	--	hk	hk	hh	hk	hh	hk
+Chr11_229203409	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	np	nn	np	np	nn	np	np	nn	nn	np	nn	nn	np	np	np	np	nn	np	np	nn	np	np	np	np	np	np	np	np	np	nn	nn	nn	np	np	np	np	nn	nn	np	np	nn	nn	nn	nn	np	nn	nn	np	nn	np	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	nn	nn	nn	np	np	nn	np	np	np	np	np	np	np	np	np	nn	np	nn	np	np	np	nn	--	nn	--	--	nn	nn	np	np	nn	np	nn	np	nn
+Chr11_231746336	<hkxhk>	hk	kk	hk	kk	hk	hk	hk	hk	hk	kk	hk	--	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	--	hk	kk	hk	hk	--	kk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	kk	--	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	--	hk	hk	hk	hk	hk	hk	hk	--	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	kk	--	kk	hk	hk	hk	hk	hk	--	--	kk	--	hk	hk	kk	--	--	hk	--	hk	hk	--	hk	hk	--	hk	--	--	--	hk	--	--	hk	--	kk	--	hk
+Chr11_231841692	<lmxll>	ll	lm	ll	lm	lm	lm	lm	ll	lm	lm	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	lm	ll	ll	lm	lm	lm	ll	ll	lm	lm	ll	ll	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	lm	ll	lm	ll	lm	ll	ll	lm	ll	ll	ll	lm	lm	ll	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	ll	ll	lm	ll	ll	--	lm	lm	ll	ll	lm	ll	ll	lm	ll	ll	lm	lm	--	lm	ll	lm	lm	ll	lm	--	lm	lm	lm
+Chr11_234181328	<hkxhk>	hk	kk	hk	kk	hk	hk	hk	hk	hk	kk	hk	kk	hk	hk	kk	hk	hk	hk	hk	hk	hk	kk	hk	hk	kk	hk	kk	hk	hk	kk	kk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	kk	kk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	kk	kk	kk	hk	hk	hk	hk	hk	hk	kk	kk	hk	hk	hk	kk	--	hk	hk	kk	hk	hk	kk	hk	hk	hk	hk	hk	kk	hk	hk	kk	hk	hk	kk	kk	kk	hk
+Chr11_234190857	<hkxhk>	hh	kk	hh	kk	hk	hk	hk	hh	hk	kk	hk	kk	hk	hh	hk	hk	hh	hk	hk	hh	hk	kk	hk	hk	kk	hk	kk	hh	hh	kk	kk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	kk	kk	hk	hk	hh	kk	hk	hh	hk	hk	hk	hk	hk	hk	hk	hh	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hh	hk	hk	kk	kk	kk	hk	hk	hk	hk	hk	hk	kk	kk	hk	hk	hh	kk	kk	hk	hh	kk	hh	hk	kk	hk	hh	hh	hk	hk	kk	hk	hk	kk	hk	hk	kk	kk	kk	hk
+Chr11_235249469	<nnxnp>	nn	np	nn	nn	nn	np	np	np	np	np	nn	nn	np	nn	nn	nn	np	np	nn	nn	np	nn	nn	nn	nn	nn	nn	nn	np	np	np	np	nn	np	np	nn	np	nn	--	nn	np	nn	np	np	nn	nn	nn	nn	nn	np	nn	np	nn	nn	--	nn	nn	np	nn	np	np	np	np	nn	np	nn	nn	nn	np	nn	nn	np	nn	np	np	nn	nn	np	nn	np	nn	nn	np	np	nn	--	np	nn	nn	nn	nn	nn	nn	nn	nn	nn	nn	--	nn	nn	--	nn	--	--	--	nn	--	nn	nn	nn	nn	nn	np
+Chr11_236555758	<hkxhk>	hh	kk	hh	kk	hk	hk	hk	hh	hk	kk	hh	kk	hk	hh	hk	hk	hh	kk	--	hh	hh	hk	hk	hk	kk	hk	kk	hh	hh	--	--	hk	--	hh	hk	hk	hk	kk	--	hk	hk	kk	kk	kk	hk	hk	hk	kk	hk	hh	hh	hh	hh	hk	hh	hk	hh	hh	hk	hh	hk	hk	kk	hk	hh	hh	hk	hk	hk	hk	hh	hh	kk	hh	hh	hk	kk	kk	kk	hk	hk	hk	hk	hk	hk	--	kk	--	--	hh	kk	kk	hk	hh	kk	hh	--	--	hk	hh	--	hk	--	--	--	--	--	--	hk	--	kk	kk	hk
+Chr11_237988757	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	np	nn	np	np	nn	np	np	nn	nn	np	nn	nn	np	np	np	np	nn	np	np	nn	np	np	np	np	nn	np	np	np	np	np	nn	nn	np	np	np	np	nn	nn	np	np	nn	nn	nn	nn	np	nn	nn	np	nn	np	nn	nn	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	nn	np	np	nn	--	--	np	np	np	--	np	np	np	nn	np	nn	np	np	np	nn	nn	nn	--	--	nn	nn	np	np	nn	np	np	np	nn
+Chr11_238097236	<hkxhk>	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	kk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hk	hk	hk	hk	hk	kk	hk	hk	hk	hh	hk	kk	hk	hk	kk	hk	hk	hk	hk	--	hk	hk	hk	--	hk	hk	kk	hk	hk	hk	hk	hk	hk
+Chr11_239212997	<nnxnp>	nn	np	nn	np	nn	nn	nn	nn	nn	np	nn	np	np	nn	np	np	nn	nn	np	nn	np	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	np	np	np	np	np	nn	nn	np	np	np	np	nn	nn	np	np	nn	nn	nn	nn	np	--	nn	--	nn	--	nn	nn	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	np	np	np	np	nn	nn	np	np	nn	np	np	np	--	np	nn	np	np	np	--	np	nn	np	np	np	--	--	nn	--	--	nn	--	nn	np	nn	--	np	np	nn
+Chr11_240506854	<nnxnp>	nn	np	nn	np	nn	nn	nn	--	nn	np	nn	np	np	nn	nn	np	nn	--	np	nn	nn	np	np	np	np	nn	np	np	nn	np	nn	np	np	np	np	np	np	np	--	nn	--	np	nn	np	np	nn	nn	np	np	nn	nn	nn	--	nn	--	nn	nn	nn	nn	nn	np	np	np	np	nn	nn	nn	np	np	np	np	nn	np	nn	nn	nn	np	nn	nn	nn	nn	np	nn	--	nn	nn	np	nn	--	--	np	nn	np	nn	np	--	np	nn	np	--	--	nn	nn	nn	--	--	np	nn	nn	np	nn	nn	nn
+Chr11_245171386	<lmxll>	ll	lm	ll	lm	lm	lm	lm	ll	lm	lm	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	lm	ll	ll	lm	ll	lm	ll	ll	lm	lm	ll	lm	ll	ll	ll	ll	lm	ll	lm	lm	ll	lm	lm	ll	lm	ll	lm	ll	ll	lm	ll	ll	ll	ll	lm	ll	ll	ll	ll	lm	ll	lm	ll	ll	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	ll	lm	lm	lm	lm	lm	ll	ll	lm	ll	lm	lm	lm	ll	lm	lm	lm	ll	ll	lm	ll	ll	ll	ll	--	lm	lm	--	--	ll	lm	lm	ll	lm	lm	lm	ll	lm
+Chr11_248363024	<lmxll>	ll	lm	ll	lm	lm	lm	lm	ll	lm	lm	ll	lm	ll	ll	ll	ll	ll	ll	ll	ll	ll	lm	ll	ll	lm	ll	lm	ll	ll	lm	lm	ll	lm	ll	ll	ll	ll	lm	--	lm	lm	ll	lm	lm	ll	lm	ll	lm	ll	ll	lm	ll	ll	lm	lm	lm	--	ll	ll	--	lm	ll	lm	ll	ll	ll	lm	ll	ll	ll	ll	ll	lm	ll	ll	lm	lm	lm	lm	lm	lm	ll	ll	lm	--	lm	lm	lm	ll	ll	lm	ll	ll	ll	lm	ll	ll	ll	--	--	lm	lm	--	--	ll	lm	--	--	lm	lm	lm	lm	lm
+
+individual names:
+WGN63C01
+WGN63C02
+WGN63C03
+WGN63C04
+WGN63C05
+WGN63C07
+WGN63C09
+WGN63C10
+WGN63C11
+WGN63C12
+WGN63C13
+WGN63C15
+WGN63C17
+WGN63C18
+WGN63C19
+WGN63C20
+WGN63C21
+WGN63C22
+WGN63C23
+WGN63C24
+WGN63C25
+WGN63C26
+WGN63C27
+WGN63C28
+WGN63C29
+WGN63C30
+WGN63C31
+WGN63C32
+WGN63C33
+WGN63C34
+WGN63C35
+WGN63C37
+WGN63C38
+WGN63C39
+WGN63C40
+WGN63C41
+WGN63C42
+WGN63C43
+WGN63C44
+WGN63C45
+WGN63C46
+WGN63C47
+WGN63C48
+WGN63C49
+WGN63C50
+WGN63C51
+WGN63C52
+WGN63C53
+WGN63C56
+WGN63C58
+WGN63C59
+WGN63C60
+WGN63C61
+WGN63C62
+WGN63C63
+WGN63C64
+WGN63C65
+WGN63D01
+WGN63D03
+WGN63D04
+WGN63D05
+WGN63D06
+WGN63D07
+WGN63D08
+WGN63D09
+WGN63D10
+WGN63D11
+WGN63D12
+WGN63D13
+WGN63D14
+WGN63D15
+WGN63D16
+WGN63D17
+WGN63D18
+WGN63D19
+WGN63D20
+WGN63D21
+WGN63D22
+WGN63D23
+WGN63D24
+WGN63D25
+WGN63D26
+WGN63D27
+WGN63D28
+WGN63D29
+WGN63D30
+WGN63D32
+WGN63D34
+WGN63D35
+WGN63D36
+WGN63D37
+WGN63D38
+WGN63D39
+WGN63D40
+WGN63D41
+WGN63D42
+WGN63D43
+WGN63D44
+WGN63D45
+WGN63D46
+WGN63D47
+WGN63D49
+WGN63D51
+WGN63D53
+WGN63D55
+WGN63D57
+WGN63D58
+WGN63D59
+WGN63D61
+WGN63D62
+WGN63D63
+WGN63D64
+WGN63D65

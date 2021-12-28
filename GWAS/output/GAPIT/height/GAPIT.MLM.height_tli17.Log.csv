@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1163", "2")
+group.by ,20
+Trait name ,MLM.height_tli17
+Kinship,1163:1164
+Z Matrix,c(1164, 1164)
+Covariate,c(1163, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1163
+group.to ,1163

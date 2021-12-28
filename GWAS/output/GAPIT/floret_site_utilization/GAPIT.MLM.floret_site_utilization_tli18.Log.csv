@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("531", "2")
+group.by ,20
+Trait name ,MLM.floret_site_utilization_tli18
+Kinship,531:532
+Z Matrix,c(532, 532)
+Covariate,c(531, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,531
+group.to ,531

@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1152", "2")
+group.by ,20
+Trait name ,MLM.spikelets_per_spike_tli18
+Kinship,1152:1153
+Z Matrix,c(1153, 1153)
+Covariate,c(1152, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1152
+group.to ,1152

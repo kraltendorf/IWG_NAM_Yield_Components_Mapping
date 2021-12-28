@@ -1,0 +1,66 @@
+candidate_gene,marker_name,chr,bp_pos,Thinopyrum_intermedium_v2.1_gene_id,Thinopyrum_intermedium_v2.1_location,Thinopyrum_intermedium_v2.1_auto_define,citation,source,trait
+Brittle rachis,Btr1,7,64785511,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,7,64714619,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,7,64705466,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,7,66343485,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,7,65260037,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,8,37809930,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,9,26175732,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,9,25661113,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr1,9,25969063,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr2,7,66141197,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr2,8,37755337,,,,Civan and Brown 2017,barley (3),Brittle rachis
+Brittle rachis,Btr2,9,26060998,,,,Civan and Brown 2017,barley (3),Brittle rachis
+naked,Nud,19,510120134,,,,Yu et al. 2016,barley (7),Free threshing
+naked,Nud,20,491744614,,,,Yu et al. 2016,barley (7),Free threshing
+naked,Nud,21,313566208,,,,Yu et al. 2016,barley (7),Free threshing
+spelt factor (free threshing),Q,13,365961283,,,,Simons et al. 2006,wheat (5A),Free threshing
+spelt factor (free threshing),Q,14,418100272,,,,Simons et al. 2006,wheat (5A),Free threshing
+QTL of seed shattering in chr1,qSH1,7,376399378,,,,Konishi et al. 2006,rice (1),Free threshing
+QTL of seed shattering in chr1,qSH1,7,387186179,,,,Konishi et al. 2006,rice (1),Free threshing
+QTL of seed shattering in chr1,qSH1,9,369731903,,,,Konishi et al. 2006,rice (1),Free threshing
+shattering QTL chr4,sh4,10,26172505,,,,Li et al. 2006,rice (4),Free threshing
+shattering QTL chr4,sh4,11,8879818,,,,Li et al. 2006,rice (4),Free threshing
+shattering QTL chr4,sh4,12,377628308,,,,Li et al. 2006,rice (4),Free threshing
+SH1-like gene on chr5,SH5,1,324225555,,,,Yoon et al. 2014,rice (5),Free threshing
+SH1-like gene on chr5,SH5,2,334447331,,,,Yoon et al. 2014,rice (5),Free threshing
+SH1-like gene on chr5,SH5,3,464140241,,,,Yoon et al. 2014,rice (5),Free threshing
+Shattering abortion 1,SHAT1,4,234390930,,,,Zhou et al. 2012,rice (4),Free threshing
+Shattering abortion 1,SHAT1,6,46055017,,,,Zhou et al. 2012,rice (4),Free threshing
+Gibberellic Acid-Stimulated Regulator,GASR7,19,274140227,,,,Dong et al. 2014,wheat (7B),Grain size
+Gibberellic Acid-Stimulated Regulator,GASR7,20,335180034,,,,Dong et al. 2014,wheat (7A),Grain size
+Gibberellic Acid-Stimulated Regulator,GASR7,21,99929331,,,,Dong et al. 2014,wheat (7D),Grain size
+grain length QTL chr7,gl7(gw7),4,115252094,,,,Wang et al. 2015b,rice (7),Grain size
+grain length QTL chr7,gl7(gw7),4,115252094,,,,Wang et al. 2015a,rice (7),Grain size
+grain length QTL chr7,gl7(gw7),5,243130888,,,,Wang et al. 2015a,rice (7),Grain size
+grain length QTL chr7,gl7(gw7),5,243130888,,,,Wang et al. 2015b,rice (7),Grain size
+grain length QTL chr7,gl7(gw7),6,104589204,,,,Wang et al. 2015a,rice (7),Grain size
+grain length QTL chr7,gl7(gw7),6,104589204,,,,Wang et al. 2015b,rice (7),Grain size
+grain length and width QTL chr7,GLW7,5,109765347,,,,Si et al. 2016,rice (7),Grain size
+grain length and width QTL chr7,GLW7,6,295560462,,,,Si et al. 2016,rice (7),Grain size
+Grain width and weight QTL chr2,GW2,16,114558207,,,,Hong et al. 2014; also Zhang et al. 2018,"wheat (6D), rice (2)",Grain size
+Grain width and weight QTL chr2,GW2,17,120189638,,,,Hong et al. 2014; also Zhang et al. 2018,"wheat (6D), rice (2)",Grain size
+Grain width and weight QTL chr2,GW2,18,206112778,,,,Hong et al. 2014; also Zhang et al. 2018,"wheat (6D), rice (2)",Grain size
+grain width QTL chr5,GW5/qSW5,1,145568887,,,,Liu et al. 2017,rice (5),Grain size
+grain width QTL chr5,GW5/qSW5,2,175033564,,,,Liu et al. 2017,rice (5),Grain size
+grain width QTL chr5,GW5/qSW5,3,301247434,,,,Liu et al. 2017,rice (5),Grain size
+grain width QTL chr8,gw8,19,242770631,,,,Wang et al. 2012,rice (8),Grain size
+grain width QTL chr8,gw8,20,374584699,,,,Wang et al. 2012,rice (8),Grain size
+grain width QTL chr8,gw8,21,158538535,,,,Wang et al. 2012,rice (8),Grain size
+Reduced height,rht,10,54529961,,,,Peng et al. 1999,wheat (5D),Plant height
+Reduced height,rht,12,54660877,,,,Peng et al. 1999,wheat (5D),Plant height
+Grain number increase 1 (six-rowed spike 1),GNI1(VRS1),4,137847048,,,,"Sakuma et al. 2019, Komatsuda et al. 2007","wheat (2), barley (2)",Seed set
+Grain number increase 1 (six-rowed spike 1),GNI1(VRS1),5,90182458,,,,"Sakuma et al. 2019, Komatsuda et al. 2007","wheat (2), barley (2)",Seed set
+Grain number increase 1 (six-rowed spike 1),GNI1(VRS1),5,285940466,,,,"Sakuma et al. 2019, Komatsuda et al. 2007","wheat (2), barley (2)",Seed set
+Grain number increase 1 (six-rowed spike 1),GNI1(VRS1),6,274400487,,,,"Sakuma et al. 2019, Komatsuda et al. 2007","wheat (2), barley (2)",Seed set
+Grain number increase 1 (six-rowed spike 1),GNI1(VRS1),6,397252383,,,,"Sakuma et al. 2019, Komatsuda et al. 2007","wheat (2), barley (2)",Seed set
+multiseeded 1,msd1,4,14231438,,,,Jiao et al. 2018,sorghum (7),Seed set
+multiseeded 1,msd1,4,14269905,,,,Jiao et al. 2018,sorghum (7),Seed set
+multiseeded 2 (tasselseed 1),msd2(ts1),4,172880508,,,,Gladman et al. 2019,sorghum (6),Seed set
+multiseeded 2 (tasselseed 1),msd2(ts1),5,166007365,,,,Gladman et al. 2019,sorghum (6),Seed set
+multiseeded 2 (tasselseed 1),msd2(ts1),6,339906809,,,,Gladman et al. 2019,sorghum (6),Seed set
+Zeocriton,Zeo,4,234390930,,,,Houston et al. 2013,barley (2),Spike density
+Zeocriton,Zeo,6,46055017,,,,Houston et al. 2013,barley (2),Spike density
+Zeocriton,Zeo,21,35640472,,,,Houston et al. 2013,barley (2),Spike density
+Low number of tillers-1,lnt1,9,369736470,,,,Dabbert et al. 2010,barley,Tillering
+Low number of tillers-1,lnt1,7,376403726,,,,Dabbert et al. 2010,barley,Tillering

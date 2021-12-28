@@ -1,0 +1,10 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+1	CP	1_CP	96.85	103.282	127.833	CP_Chr01_93964340	4.23	WGN39	13.7	14.04385	0.577649999999999	NA	reproductive_tiller_ct	stp	2018
+9	CP	9_CP	2.401	9.283	16.979	NA	17.2	combined	NA	NA	NA	NA	reproductive_tiller_ct	stp	2018
+9	DP	9_DP	0	7.284	39.987	DP_Chr09_450543925	9.95	combined	NA	NA	NA	NA	reproductive_tiller_ct	stp	2018
+9	DP	9_DP	0	29.12	54.903	DP_Chr09_419434458	4	WGN07	15.6	11.92655	NA	0.81405	reproductive_tiller_ct	stp	2018
+9	CP	9_CP	0	6.743	16.979	CP_Chr09_111605290	6.41	WGN15	21.6	13.1972	-0.7818	NA	reproductive_tiller_ct	stp	2018
+9	CP	9_CP	0	10.497	24.377	CP_Chr09_450543915	4.69	WGN36	14.9	11.86325	-0.692749999999999	NA	reproductive_tiller_ct	stp	2018
+9	CP	9_CP	0	16.979	45.867	NA	3.34	WGN63	17.6	13.98345	-0.60065	NA	reproductive_tiller_ct	stp	2018
+11	DP	11_DP	51.708	54.863	58.865	DP_Chr11_103148491	5.01	WGN45	63.5	10.95763	NA	-1.04037	reproductive_tiller_ct	stp	2018
+21	DP	21_DP	34.638	66.706	78.573	DP_Chr21_88073865	3.91	WGN07	13.7	11.79155	NA	0.755450000000001	reproductive_tiller_ct	stp	2018

@@ -1,0 +1,5 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+5	DP	5_DP	0	0	57.545	DP_Chr05_339720810	8.46	combined	NA	NA	NA	NA	spikelets_per_spike	tli	2017
+5	DP	5_DP	0	3	68.292		6.08	WGN26	20.6	25.45905	NA	-1.07415	spikelets_per_spike	tli	2017
+9	CP	9_CP	0	19.377	67.972	CP_Chr09_452619935	8.82	combined	NA	NA	NA	NA	spikelets_per_spike	tli	2017
+19	DP	19_DP	115.466	125.306	142.215	DP_Chr19_47123519	3.75	WGN63	19.5	27.1835	NA	-0.817400000000001	spikelets_per_spike	tli	2017

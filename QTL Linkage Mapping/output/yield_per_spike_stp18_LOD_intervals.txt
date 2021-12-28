@@ -1,0 +1,13 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+2	DP	2_DP	0	54.384	69.514	DP_Chr02_172007669	4.14	WGN15	11.4	0.5066875	NA	-0.0416615	yield_per_spike	stp	2018
+8	CP	8_CP	24.619	26.619	28.334		13.25	combined	NA	NA	NA	NA	yield_per_spike	stp	2018
+8	CP	8_CP	0	27.334	36.828	CP_Chr08_202829489	3.95	WGN55	11.7	0.5926445	-0.0409535	NA	yield_per_spike	stp	2018
+8	CP	8_CP	20.824	21.824	22.631		3.72	WGN63	17.6	0.6098885	0.0527205	NA	yield_per_spike	stp	2018
+9	CP	9_CP	0	5.86	17.685	CP_Chr09_111606103	16.98	combined	NA	NA	NA	NA	yield_per_spike	stp	2018
+9	CP	9_CP	0	9.283	55.904		3.73	WGN07	12.4	0.546711	0.051109	NA	yield_per_spike	stp	2018
+9	CP	9_CP	0	2	69.413		3.66	WGN15	11.6	0.507581	-0.043035	NA	yield_per_spike	stp	2018
+9	DP	9_DP	0	6.722	24.744		3.68	WGN26	13.1	0.5583845	NA	0.0508325	yield_per_spike	stp	2018
+9	CP	9_CP	0	28.955	41.867	CP_Chr09_413151232	4.13	WGN36	14	0.626204	-0.055285	NA	yield_per_spike	stp	2018
+15	CP	15_CP	120.117	128.973	139.674		10.61	combined	NA	NA	NA	NA	yield_per_spike	stp	2018
+15	DP	15_DP	22.665	37.936	60.434	DP_Chr15_326337910	3.64	WGN15	10.1	0.506274	NA	0.039603	yield_per_spike	stp	2018
+21	CP	21_CP	116.234	124.912	131.913	CP_Chr21_408892597	9.36	combined	NA	NA	NA	NA	yield_per_spike	stp	2018

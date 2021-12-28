@@ -1,0 +1,88 @@
+lg,map,left,right,famID,trait,env,year,marker_name,chr,env_year
+8,CP,147.858,155.626,combined,flag_leaf_area,TLI,2018,FLA (TLI18),LG08,TLI2018
+9,CP,124.194,140.173,combined,flag_leaf_area,STP,2017,"FLA (STP17, STP18)",LG09,STP2017
+15,CP,114.595,140.674,combined,flag_leaf_area,STP,2018,FLA (STP18),LG15,STP2018
+19,CP,97.425,108.74,combined,flag_leaf_area,STP,2018,FLA (STP18),LG19,STP2018
+2,DP,56.799,65.964,combined,flag_leaf_area,STP,2017,FLA (STP17),LG02,STP2017
+5,DP,135.548,146.36,combined,flag_leaf_area,TLI,2018,FLA (TLI18),LG05,TLI2018
+9,DP,110.053,140.173,combined,flag_leaf_area,STP,2017,"FLA (STP17, STP18)",LG09,STP2017
+19,DP,9,42.651,combined,flag_leaf_area,TLI,2017,FLA (TLI17),LG19,TLI2017
+8,CP,147.858,155.626,combined,floret_site_utilization,STP,2017,FSU (STP17),LG08,STP2017
+5,DP,100.916,146.36,combined,floret_site_utilization,TLI,2017,"FSU (STP17, TLI17, TLI18)",LG05,TLI2017
+9,DP,44.383,62.77,combined,floret_site_utilization,TLI,2018,FSU (TLI18),LG09,TLI2018
+14,DP,110.726,171.507,combined,floret_site_utilization,TLI,2017,"FSU (STP18, TLI17)",LG14,TLI2017
+21,DP,59.22,83.515,combined,floret_site_utilization,TLI,2018,FSU (TLI18),LG21,TLI2018
+8,CP,148.676,155.626,combined,florets_per_spikelet,STP,2017,FPS (STP17),LG08,STP2017
+9,CP,124.194,140.173,combined,florets_per_spikelet,STP,2018,"FPS (STP17, STP18)",LG09,STP2018
+2,DP,41.338,68.327,combined,florets_per_spikelet,TLI,2017,"FPS (STP17, TLI17)",LG02,TLI2017
+5,DP,137.55,146.36,combined,florets_per_spikelet,STP,2017,FPS (STP17),LG05,STP2017
+6,CP,81.273,95.701,combined,height,TLI,2017,HGT (TLI17),LG06,TLI2017
+9,CP,128.115,140.173,combined,height,STP,2018,HGT (STP18),LG09,STP2018
+15,CP,103.164,135.211,combined,height,TLI,2018,"HGT (STP18, TLI18)",LG15,TLI2018
+17,CP,111.252,135.696,combined,height,TLI,2017,HGT (TLI17),LG17,TLI2017
+5,DP,94.916,146.36,combined,height,TLI,2017,HGT (TLI17),LG05,TLI2017
+9,CP,127.194,137.772,combined,reproductive_tiller_ct,STP,2018,"RTC (STP17, STP18)",LG09,STP2018
+4,DP,50.774,80.205,combined,reproductive_tiller_ct,STP,2017,RTC (STP17),LG04,STP2017
+5,DP,103.825,146.36,combined,reproductive_tiller_ct,TLI,2017,"RTC (STP17, TLI17)",LG05,TLI2017
+9,DP,100.186,140.173,combined,reproductive_tiller_ct,STP,2018,"RTC (STP17, STP18)",LG09,STP2018
+21,DP,32.746,45.537,combined,reproductive_tiller_ct,TLI,2017,RTC (TLI17),LG21,TLI2017
+5,CP,56.689,77.225,combined,seed_area,STP,2018,"SDA (STP18, TLI17)",LG05,STP2018
+8,CP,114.455,131.902,combined,seed_area,STP,2018,SDA (STP18),LG08,STP2018
+9,CP,113.317,140.173,combined,seed_area,STP,2017,"SDA (STP17, STP18)",LG09,STP2017
+15,CP,93.337,121.117,combined,seed_area,STP,2017,"SDA (STP17, STP18)",LG15,STP2017
+2,DP,91.406,109.684,combined,seed_area,TLI,2018,SDA (TLI18),LG02,TLI2018
+4,DP,69.614,92.064,combined,seed_area,TLI,2017,SDA (TLi17),LG04,TLI2017
+5,DP,84.068,122.781,combined,seed_area,STP,2018,"SDA (STP18, TLI18)",LG05,STP2018
+5,DP,135.548,138.55,combined,seed_area,STP,2017,SDA (STP17),LG05,STP2017
+8,DP,112.929,154.232,combined,seed_area,STP,2018,"SDA (STP18, TLI18)",LG08,STP2018
+9,DP,19.052,49.576,combined,seed_area,TLI,2018,SDA (TLI18),LG09,TLI2018
+9,DP,72.138,119.429,combined,seed_area,STP,2017,SDA (STP17),LG09,STP2017
+15,DP,29.842,39.252,combined,seed_area,STP,2018,SDA (STP18),LG15,STP2018
+18,DP,45.19,74.123,combined,seed_area,STP,2017,"SDA (STP17, STP18)",LG18,STP2017
+3,CP,38.91,76.695,combined,seeds_per_spikelet,STP,2017,SPS (STP17),LG03,STP2017
+6,CP,71.129,96.701,combined,seeds_per_spikelet,TLI,2018,SPS (TLI18),LG06,TLI2018
+8,CP,146.858,159.421,combined,seeds_per_spikelet,STP,2017,"SPS (STP17, STP18, TLI17)",LG08,STP2017
+9,CP,121.275,140.173,combined,seeds_per_spikelet,STP,2018,SPS (STP18),LG09,STP2018
+2,DP,82.976,102.878,combined,seeds_per_spikelet,STP,2017,SPS (STP17),LG02,STP2017
+5,DP,126.765,146.36,combined,seeds_per_spikelet,TLI,2018,SPS (TLi18),LG05,TLI2018
+9,DP,56.327,58.363,combined,seeds_per_spikelet,TLI,2018,SPS (TLI18),LG09,TLI2018
+14,DP,107.726,146.186,combined,seeds_per_spikelet,TLI,2017,SPS (TLI17),LG14,TLI2017
+15,DP,18.783,47.262,combined,seeds_per_spikelet,STP,2017,SPS (STP17),LG15,STP2017
+21,DP,60.638,75.532,combined,seeds_per_spikelet,TLI,2018,SPS (TLI18),LG21,TLI2018
+21,DP,92.006,105.801,combined,seeds_per_spikelet,STP,2017,SPS (STP17),LG21,STP2017
+5,CP,105.477,132.86,combined,spikelet_density,TLI,2018,SPDEN (TLI18),LG05,TLI2018
+8,CP,114.455,129.45,combined,spikelet_density,STP,2018,SPDEN (STP18),LG08,STP2018
+19,CP,133.575,149.639,combined,spikelet_density,STP,2018,SPDEN (STP18),LG19,STP2018
+1,DP,100.664,133.809,combined,spikelet_density,STP,2017,SPDEN (STP17),LG01,STP2017
+5,DP,78.068,146.36,combined,spikelet_density,STP,2018,"SPDEN (STP17, STP18, TLI17)",LG05,STP2018
+9,DP,37.376,72.138,combined,spikelet_density,TLI,2017,"SPDEN (STP17, STP18, TLI17, TLI18)",LG09,TLI2017
+13,DP,24.673,52.969,combined,spikelet_density,TLI,2018,SPDEN (TLI18),LG13,TLI2018
+13,DP,76.5,99.076,combined,spikelet_density,STP,2018,SPDEN (STP18),LG13,STP2018
+21,DP,64.829,81.17,combined,spikelet_density,STP,2018,"SPDEN (STP18, TLI17)",LG21,STP2018
+21,DP,120.156,133.405,combined,spikelet_density,STP,2017,SPDEN (STP17),LG21,STP2017
+6,CP,140.863,150.909,combined,spikelets_per_spike,TLI,2018,SPKPS (TLI18),LG06,TLI2018
+8,CP,150.676,154.626,combined,spikelets_per_spike,TLI,2018,SPKPS (TLI18),LG08,TLI2018
+9,CP,72.201,140.173,combined,spikelets_per_spike,TLI,2017,"SPKPS (STP17, STP18, TLI17)",LG09,TLI2017
+19,CP,0,43.372,combined,spikelets_per_spike,STP,2017,SPKPS (STP17),LG19,STP2017
+2,DP,108.684,132.922,combined,spikelets_per_spike,STP,2017,SPKPS (STP17),LG02,STP2017
+5,DP,88.815,146.36,combined,spikelets_per_spike,TLI,2017,SPKPS (TLI17),LG05,TLI2017
+8,CP,144.51,155.626,combined,stem_diameter,TLI,2018,STDIA (TLI18),LG08,TLI2018
+9,CP,97.306,140.173,combined,stem_diameter,TLI,2018,"STDIA (STP17, STP18, TLI17)",LG09,TLI2018
+21,CP,109.234,132.721,combined,stem_diameter,TLI,2017,"STDIA (STP18, TLI17, TLI18)",LG21,TLI2017
+2,DP,55.243,75.363,combined,stem_diameter,STP,2017,STDIA (STP17),LG02,STP2017
+21,DP,73.88,92.006,combined,stem_diameter,STP,2018,STDIA (STP18),LG21,STP2018
+8,CP,109.932,119.11,combined,thousand_grain_weight,STP,2018,TGW (STP18),LG08,STP2018
+9,CP,102.306,140.173,combined,thousand_grain_weight,STP,2017,"TGW (STP17, STP18)",LG09,STP2017
+15,CP,94.337,145.674,combined,thousand_grain_weight,STP,2018,TGW (STP18),LG15,STP2018
+2,DP,56.799,65.738,combined,thousand_grain_weight,TLI,2017,TGW (TLI17),LG02,TLI2017
+15,DP,29.842,37.839,combined,thousand_grain_weight,STP,2017,TGW (STP17),LG15,STP2017
+17,DP,19.775,29.66,combined,thousand_grain_weight,STP,2018,TGW (STP18),LG17,STP2018
+17,DP,66.905,75.904,combined,thousand_grain_weight,STP,2017,TGW (STP17),LG17,STP2017
+5,CP,50.689,66.612,combined,yield_per_spike,TLI,2018,YPS (TLI18),LG05,TLI2018
+8,CP,146.858,165.877,combined,yield_per_spike,STP,2017,"YPS (STP17, STP18, TLI17)",LG08,STP2017
+9,CP,122.488,140.173,combined,yield_per_spike,STP,2018,"YPS (STP17, STP18)",LG09,STP2018
+15,CP,110.257,139.674,combined,yield_per_spike,STP,2017,"YPS (STP17, STP18)",LG15,STP2017
+21,CP,116.234,131.913,combined,yield_per_spike,STP,2018,YPS (STP18),LG21,STP2018
+2,DP,99.316,123.507,combined,yield_per_spike,STP,2017,YPS (STP17),LG02,STP2017
+5,DP,90.916,146.36,combined,yield_per_spike,TLI,2017,YPS (TLI17),LG05,TLI2017
+10,DP,56.581,72.93,combined,yield_per_spike,STP,2017,YPS (STP17),LG10,STP2017

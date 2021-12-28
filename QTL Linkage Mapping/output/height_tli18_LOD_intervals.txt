@@ -1,0 +1,3 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+15	CP	15_CP	103.164	115.595	135.211	NA	10.33	combined	NA	NA	NA	NA	height	tli	2018
+15	CP	15_CP	89.954	115.595	143.674	NA	3.37	WGN39	13.1	94.02185	3.81565000000001	NA	height	tli	2018

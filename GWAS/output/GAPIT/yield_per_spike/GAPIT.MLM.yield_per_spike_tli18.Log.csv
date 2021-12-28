@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1001", "2")
+group.by ,20
+Trait name ,MLM.yield_per_spike_tli18
+Kinship,1001:1002
+Z Matrix,c(1002, 1002)
+Covariate,c(1001, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1001
+group.to ,1001

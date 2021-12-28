@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("1155", "2")
+group.by ,20
+Trait name ,MLM.floret_site_utilization_stp18
+Kinship,1155:1156
+Z Matrix,c(1156, 1156)
+Covariate,c(1155, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,1155
+group.to ,1155

@@ -1,0 +1,4 @@
+lg	map	group	left	center	right	max_lod	locus	famID	r2	mu	alpha	gamma	trait	env	year
+5	DP	5_DP	0	37.154	96.384	5.77	DP_Chr05_385257903	WGN26	59.9	120.134	NA	-7.675	height	stp	2017
+9	DP	9_DP	0	7.284	34.209	5.2	DP_Chr09_450543925	WGN26	16.5	119.7605	NA	4.1555	height	stp	2017
+18	DP	18_DP	73.09	80.975	174.649	4.14	DP_Chr18_120763307	WGN15	15.6	123.986	NA	3.626	height	stp	2017

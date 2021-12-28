@@ -1,0 +1,8 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+2	DP	2_DP	33.181	47.368	56.799		5.01	WGN15	15.2	3.5236	NA	-0.21857	seeds_per_spikelet	stp	2018
+8	CP	8_CP	24.619	25.619	27.334		14.36	combined	NA	NA	NA	NA	seeds_per_spikelet	stp	2018
+8	CP	8_CP	0	25.619	36.828		3.75	WGN55	13.6	3.78904	-0.19216	NA	seeds_per_spikelet	stp	2018
+8	CP	8_CP	20.824	21.824	22.631		4.08	WGN63	22.8	3.49653	0.25927	NA	seeds_per_spikelet	stp	2018
+9	CP	9_CP	0	0	18.898	CP_Chr09_111456880	9.88	combined	NA	NA	NA	NA	seeds_per_spikelet	stp	2018
+15	DP	15_DP	21.404	35.305	45.742	DP_Chr15_77967134	4.99	WGN15	14.5	3.525055	NA	0.213375	seeds_per_spikelet	stp	2018
+16	CP	16_CP	86.86	81.711	50.521	CP_Chr16_263644843	3.92	WGN38	17.1	3.545035	0.258385	NA	seeds_per_spikelet	stp	2018

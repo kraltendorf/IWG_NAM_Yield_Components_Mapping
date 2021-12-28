@@ -1,0 +1,6 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+9	CP	9_CP	0	28.2	37.867	CP_Chr09_423583766	9.88	combined	NA	NA	NA	NA	thousand_grain_weight	stp	2017
+9	DP	9_DP	0	6.722	32.12	NA	4.94	WGN26	17.5	9.69023	NA	0.46507	thousand_grain_weight	stp	2017
+15	DP	15_DP	29.842	31.593	37.839	DP_Chr15_103067033	10.47	combined	NA	NA	NA	NA	thousand_grain_weight	stp	2017
+15	DP	15_DP	12.889	36.042	39.838	DP_Chr15_160752803	4.31	WGN39	15.5	9.97971	NA	-0.532990000000001	thousand_grain_weight	stp	2017
+17	DP	17_DP	59.792	62.648	68.791	DP_Chr17_192910115	7.87	combined	NA	NA	NA	NA	thousand_grain_weight	stp	2017

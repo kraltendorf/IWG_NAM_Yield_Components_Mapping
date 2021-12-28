@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("540", "2")
+group.by ,20
+Trait name ,MLM.thousand_grain_weight_tli18
+Kinship,540:541
+Z Matrix,c(541, 541)
+Covariate,c(540, 2)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,540
+group.to ,540

@@ -1,0 +1,13 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+2	DP	2_DP	41.338	58.945	70.588	DP_Chr02_274704624	3.59	WGN15	9.9	8.439295	NA	-0.427725	reproductive_tiller_ct	stp	2017
+3	DP	3_DP	0	48.081	91.551	DP_Chr03_431792075	3.64	WGN26	18.8	6.724135	NA	0.796185	reproductive_tiller_ct	stp	2017
+4	DP	4_DP	50.774	74.671	80.205	DP_Chr04_165224924	8.6	combined	NA	NA	NA	NA	reproductive_tiller_ct	stp	2017
+4	DP	4_DP	35.743	57.21	80.733	DP_Chr04_44026827	3.62	WGN63	13.9	9.18937	NA	0.43323	reproductive_tiller_ct	stp	2017
+5	DP	5_DP	0	2	10.812	NA	11.94	combined	NA	NA	NA	NA	reproductive_tiller_ct	stp	2017
+5	DP	5_DP	0	9.81	92.384	NA	3.6	WGN38	12	8.65838	NA	-0.62342	reproductive_tiller_ct	stp	2017
+9	CP	9_CP	3.401	9.299	12.979	CP_Chr09_447878309	19.07	combined	NA	NA	NA	NA	reproductive_tiller_ct	stp	2017
+9	DP	9_DP	0	4.139	27.744	DP_Chr09_450543908	8.77	combined	NA	NA	NA	NA	reproductive_tiller_ct	stp	2017
+9	CP	9_CP	2.401	9.773	12.979	CP_Chr09_450004747	7.11	WGN15	24.3	8.45448	-0.65176	NA	reproductive_tiller_ct	stp	2017
+9	DP	9_DP	0	4.139	22.744	DP_Chr09_450543908	5.84	WGN26	18.5	6.833285	NA	0.764605	reproductive_tiller_ct	stp	2017
+9	CP	9_CP	0	14.979	26.377	NA	4.59	WGN36	15.4	7.91609	-0.59844	NA	reproductive_tiller_ct	stp	2017
+19	CP	19_CP	0	39.544	54.925	CP_Chr19_87212581	3.9	WGN26	13	6.88103	0.63874	NA	reproductive_tiller_ct	stp	2017

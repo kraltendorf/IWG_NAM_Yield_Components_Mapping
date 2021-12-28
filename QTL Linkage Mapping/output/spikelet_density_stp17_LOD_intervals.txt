@@ -1,0 +1,11 @@
+lg	map	group	left	center	right	locus	max_lod	famID	r2	mu	alpha	gamma	trait	env	year
+1	DP	1_DP	52.655	70.85	85.8		8.26	combined	NA	NA	NA	NA	spikelet_density	stp	2017
+5	DP	5_DP	0	0	36.597	DP_Chr05_339720810	9.81	combined	NA	NA	NA	NA	spikelet_density	stp	2017
+5	DP	5_DP	0	24.579	71.292		5.46	WGN26	38.5	0.724365	NA	-0.045369	spikelet_density	stp	2017
+6	CP	6_CP	21.267	44.086	48.167		3.48	WGN63	12.8	0.7491625	0.0204345	NA	spikelet_density	stp	2017
+9	DP	9_DP	68.035	71.473	82.059		12.41	combined	NA	NA	NA	NA	spikelet_density	stp	2017
+9	DP	9_DP	0	29.12	64.577	DP_Chr09_419434458	4.23	WGN26	13.5	0.724136	NA	-0.026571	spikelet_density	stp	2017
+9	DP	9_DP	64.577	73.086	85.484		6.02	WGN55	20.6	0.8155655	NA	0.0316145	spikelet_density	stp	2017
+19	CP	19_CP	0	24.793	60		3.63	WGN63	20.7	0.7515185	-0.0258675	NA	spikelet_density	stp	2017
+21	DP	21_DP	120.156	133.405	133.405	DP_Chr21_441876223	8.45	combined	NA	NA	NA	NA	spikelet_density	stp	2017
+21	DP	21_DP	97.588	133.405	133.405	DP_Chr21_441876223	4.31	WGN07	14.3	0.8967205	NA	0.0309145	spikelet_density	stp	2017
